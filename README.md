@@ -16,6 +16,6 @@
  3. [Echarts教程](Echarts_tutorial.md)
  4. [markdown教程](https://www.w3cschool.cn/lme/)
 - 笔记
-	- (*todo*)
+ 1. [python教程笔记](https://github.com/youyuyixiu/Python_tutorial)
 - 分享
 	- (*todo*)
