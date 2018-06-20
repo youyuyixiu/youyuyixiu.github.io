@@ -1,6 +1,3 @@
-# About me
-
-------
 ## Contact me
 
 > ![WeChat](wechat.jpg)

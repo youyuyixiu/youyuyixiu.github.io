@@ -1,7 +1,5 @@
 # python教程
 
----
-
 ## Up主(雨敲窗敲代码)
 本教程主要分为三部分：python基础、python数据结构、python网络爬虫
 
