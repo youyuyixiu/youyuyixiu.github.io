@@ -17,8 +17,11 @@
     - 进度：[Echarts3视频教程](http://www.imooc.com/learn/687) ending
 4. [markdown教程](https://www.w3cschool.cn/lme/)
     - 进度：无
+5. [github教程](https://www.bilibili.com/video/av23859607)
+
 - 笔记
  1. [python教程笔记](https://github.com/youyuyixiu/Python_tutorial)
  2. [爬虫教程笔记](https://github.com/youyuyixiu/crawler)
+
 - 分享
   - 进度(todo)
